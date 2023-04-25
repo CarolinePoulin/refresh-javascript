@@ -5,5 +5,8 @@
 */
 
 const celciusToFarenheit = celcius => {
+	var c = celsius;
+	var cTof = (c*9/5)+32;
 
+	console.log = cTof;
 }
